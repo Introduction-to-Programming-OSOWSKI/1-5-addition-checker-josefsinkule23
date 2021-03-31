@@ -7,7 +7,7 @@ import datetime;
 
 year = 2021
 month = 4
-day = 30
+day = 21
 
 def test_code():
     assert main.addCheck(2,2,4) == True
